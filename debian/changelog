@@ -1,3 +1,9 @@
+bluez-imx (5.50+imx-mendel1) mendel-beaker; urgency=medium
+
+  * Cut for beaker release and normalization of version.
+  
+ -- AIY Projects <support-aiyprojects@google.com>  Wed, 16 Jan 2019 12:00:00 -0800
+
 bluez-imx (5.50+imx-0) unstable; urgency=medium
 
   * Initial release
