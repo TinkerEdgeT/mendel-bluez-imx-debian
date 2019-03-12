@@ -1,5 +1,5 @@
 Source: bluez-imx
-Maintainer: AIY Projects <support-aiyprojects@google.com>
+Maintainer: AIY Projects <coral-support@google.com>
 Section: admin
 Priority: optional
 Build-Depends: debhelper (>= 10),

@@ -2,13 +2,13 @@ bluez-imx (5.50+imx-mendel1) mendel-beaker; urgency=medium
 
   * Cut for beaker release and normalization of version.
   
- -- AIY Projects <support-aiyprojects@google.com>  Wed, 16 Jan 2019 12:00:00 -0800
+ -- AIY Projects <coral-support@google.com>  Wed, 16 Jan 2019 12:00:00 -0800
 
 bluez-imx (5.50+imx-0) unstable; urgency=medium
 
   * Initial release
 
- -- AIY Projects <support-aiyprojects@google.com>  Mon, 30 Jul 2018 11:46:24 -0800
+ -- AIY Projects <coral-support@google.com>  Mon, 30 Jul 2018 11:46:24 -0800
 
 bluez (5.50-1) unstable; urgency=medium
 
