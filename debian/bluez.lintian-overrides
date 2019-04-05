@@ -1,0 +1,1 @@
+bluez: dbus-policy-at-console etc/dbus-1/system.d/bluetooth.conf *
