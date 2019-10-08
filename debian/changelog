@@ -1,3 +1,9 @@
+bluez-imx (5.50+imx-mendel3) mendel-day; urgency=medium
+
+  * Cut for day release.
+
+ -- Coral <coral-support@google.com>  Tue, 08 Oct 2019 15:09:54 -0500
+
 bluez-imx (5.50+imx-mendel2) mendel-chef; urgency=medium
 
   * Cut for chef release and normalization of version.
